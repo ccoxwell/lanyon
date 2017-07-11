@@ -1,0 +1,15 @@
+figcaption {
+    font-size: .75rem;
+}
+
+/* Purple */
+.theme-base-10 .sidebar,
+.theme-base-10 .sidebar-toggle:active,
+.theme-base-10 #sidebar-checkbox:checked ~ .sidebar-toggle {
+  background-color: #673ab7;
+}
+.theme-base-10 .container a,
+.theme-base-10 .sidebar-toggle,
+.theme-base-10 .related-posts li a:hover {
+  color: #673ab7;
+}
